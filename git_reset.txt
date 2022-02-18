@@ -1,0 +1,6 @@
+hello Vipul Mishra
+
+git reset HEAD
+git reset --soft
+git reset --mixed
+git reset --hard
