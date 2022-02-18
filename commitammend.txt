@@ -1,1 +1,3 @@
-commit ammend-> used to add a recent change in the project to the older commit.
+commit --amend-> used to add a recent change in the project to the older commit.
+
+To alter the commit message, we use i
