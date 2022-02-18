@@ -1,0 +1,1 @@
+commit ammend-> used to add a recent change in the project to the older commit.
