@@ -1,0 +1,3 @@
+we will use restore on this.
+1. git restore --staged <filename>
+2.git restore <filename>
