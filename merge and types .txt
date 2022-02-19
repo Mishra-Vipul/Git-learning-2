@@ -2,3 +2,9 @@ git merge <branchname> is used to merge a branch <branchname> into the current a
 
 if there is a linear flow between the <branchname> and current active branch then the terminal displays "fast forwarding".
 
+to delete a branch 'a' after merging it into another branch 'b',
+we first have to checkout to branch 'b', and from that branch, we use the command:
+
+git branch -d <branchname>
+
+to delete the branch 'a'.
