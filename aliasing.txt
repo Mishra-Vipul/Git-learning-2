@@ -1,0 +1,4 @@
+Using aliasing we can rename git's default commands to our desired commands
+
+command-> git config --alias.<our desired command name> '<git's default command>'
+
