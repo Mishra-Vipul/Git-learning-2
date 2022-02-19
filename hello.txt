@@ -7,3 +7,5 @@ new hello
 hello
 
 doing some changes
+
+This is some bad code man
