@@ -1,0 +1,5 @@
+if we want to contribute to a project, we have to follow 3 main steps:
+1. clone
+2. Fork
+3. Pull request
+

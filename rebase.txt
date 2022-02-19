@@ -1,0 +1,13 @@
+rebase -> taking a single or multiplt commits and applying them on a base.
+It can be assumed that it is used to merge branches to create a linear work flow and a clean commit history.
+
+command:
+git rebase <branchname>
+
+
+git rebase interactive -> this command is used to slect all the commits that we want to keep in out main branch.
+
+
+rebase should only be done if we are the only one working on the repo.
+
+

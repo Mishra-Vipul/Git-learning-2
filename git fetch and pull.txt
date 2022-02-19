@@ -1,0 +1,7 @@
+git fetch <origin name> -> this command is used to get all the files in remote repo to our local repo.
+
+After using git fetch, we have to use git merge to reflect changes in out project.
+
+
+
+git pull -> this command combines the work of fetch and merge together.
