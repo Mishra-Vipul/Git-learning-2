@@ -1,0 +1,18 @@
+cherrypick is a command which is used to get a commit of branch 'a' to branch 'b'.
+
+
+In this command, the commit does not gets moved, but a copy of that commit is made and used in branch 'b'.
+
+
+why?
+undoing changes.
+team work
+resolving a bug by using a commit in which that bug is already resolved
+
+
+command:
+git cherry-pick <commit name>
+
+
+by default, GIT will only apply these changes if the current branch does not have these changes 
+in order to prevent an empty commit.

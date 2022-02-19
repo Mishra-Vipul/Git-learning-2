@@ -1,0 +1,10 @@
+It is a command used to see all the changes done in the repo.
+
+Using this info, we can easily undo changes that have been made to repo
+with git reset.
+
+command:
+git reflog
+
+
+It can also be used with time-stamps to view changes done certain time ago.

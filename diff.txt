@@ -1,0 +1,19 @@
+used to view changes:{
+    1.changes in file:{
+        1.when it is in modified staged.
+        2. when it is in staging area.
+    }
+    2. changes in branch
+}
+
+
+
+commands in file:
+git diff <filename>
+git diff
+git diff --staged <filename>
+
+
+commands in branch:
+git diff <branch1 name>..<branch2 name>
+

@@ -1,0 +1,9 @@
+these are the options in git rebase -i:
+
+1.p,pick=use commit.
+2.r,reword=use commit,but edit the commit message.
+3.e,edit=use commit,but stop for ammending.
+4.s,squash=use commit but meld into previous one.
+5.f,fixup=like "squash", but discard this commit's log message.
+6.x,exec=run command(the rest of the line) using shell
+7.d,drop= remove commit.

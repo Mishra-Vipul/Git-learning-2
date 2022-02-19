@@ -1,6 +1,6 @@
 hello Vipul Mishra
 
 git reset HEAD
-git reset --soft
-git reset --mixed
-git reset --hard
+git reset --soft -> committed to modified/staged
+git reset --mixed -> committed to unstaged/untracked.
+git reset --hard -> committed to removed.
