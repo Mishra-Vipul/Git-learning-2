@@ -2,3 +2,7 @@ Using aliasing we can rename git's default commands to our desired commands
 
 command-> git config --alias.<our desired command name> '<git's default command>'
 
+
+to view a certain number of commits only let's say 'n',
+then we use command : git log -n, where n is no of latest commits
+

@@ -1,0 +1,4 @@
+git merge <branchname> is used to merge a branch <branchname> into the current active branch.
+
+if there is a linear flow between the <branchname> and current active branch then the terminal displays "fast forwarding".
+

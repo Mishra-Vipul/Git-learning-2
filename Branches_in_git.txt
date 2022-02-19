@@ -1,0 +1,15 @@
+ commands in this video: git branch, git checkout
+
+ head-> a pointer which tells which branch is currently active
+
+git branch <branchname> -> used to create a new branch
+git checkout <branchname1> -> used to switch from current active branch to branchname1
+
+git merge <branchname> -> used to merge branches into current active branch.
+
+git branch -> tells us which branch is currently active
+
+
+to create a new file in a branch, we use the command:
+touch <filename>
+
